@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1791153364973,
+      "tag": "0000_confused_shadow_king",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1791259395974,
+      "tag": "0001_silky_devos",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1792050545373,
+      "tag": "0002_melted_hobgoblin",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1792086514220,
+      "tag": "0003_curvy_frank_castle",
+      "breakpoints": true
+    }
+  ]
+}
